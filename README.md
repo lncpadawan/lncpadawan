@@ -2,7 +2,7 @@
 ### *Currently Working on a Website for a house organizer*
 ### *I have experience in machine learning and web development (front end, back end, and UX)*
 ### *Proficient in 4 languages*
-### *About to gradate from Lambda School*
+### *About to graduate from Lambda School*
 
 <!--
 **lncpadawan/lncpadawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

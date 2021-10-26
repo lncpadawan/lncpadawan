@@ -1,7 +1,8 @@
 # Hello there, this is Luiza
 ### *Currently Working on a Website for a house organizer*
 ### *I have experience in machine learning and web development (front end, back end, and UX)*
-### *Proficient in 4 languages*
+### *Proficient in 4 languages: English, Portuguese, Spanish, and Japanese*
+### *Proficient in Java, JS, HTML, CSS, C++, Python, Assembly*
 ### *About to graduate from Lambda School*
 
 <!--
